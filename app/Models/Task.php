@@ -14,7 +14,6 @@ class Task extends Model
     'start_date',
     'due_date',
     'estimated_minutes',
-    'is_active',
     'completed',
 ];
 
